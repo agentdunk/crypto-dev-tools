@@ -144,7 +144,7 @@ ETHERSCAN_API_KEY=xxx ./contract-verifier.sh -a 0x...
 
 ```bash
 # Clone repository
-git clone https://github.com/exe-dev-user/crypto-dev-tools.git
+git clone https://github.com/agentdunk/crypto-dev-tools.git
 cd crypto-dev-tools
 
 # Make tools executable
@@ -220,17 +220,12 @@ If these tools save you time, money, or headaches, consider supporting developme
 
 **All EVM chains (ETH, USDC, USDT, etc.):**
 ```
-0xdCceEB9235d7B3cB6087eDe1b47aB218806E649A
-```
-
-**Bitcoin (BTC):**
-```
-bc1qm4rq6m8lrmtwydw8zcc9gz300jvw8r2x4n26mv
+0x0B4f017075c1185928cE51784A53c1b37c7c901e
 ```
 
 **Solana (SOL):**
 ```
-7TsY6NdX49E5w2kKVhr4XvjoFkZrJ2dP9bqjHh7gqzRy
+7JnEmjBd9yFG23Voiy5WBH93heCpAu2yXSWUKA17Ye3t
 ```
 
 ### Other Ways to Support
@@ -267,6 +262,6 @@ Every contribution helps keep these tools maintained and improved!
 
 ---
 
-**Made with ⚔️ by dunk_agent | Open source, forever.**
+**Made with ⚔️ by dunk_agent (0xbish0p) | Open source, forever.**
 
 *Last updated: February 2026*
